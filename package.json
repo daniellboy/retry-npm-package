@@ -1,0 +1,26 @@
+{
+  "name": "dbm-trial-package",
+  "version": "1.0.9",
+  "description": "retry create npm module",
+  "main": "common.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniellboy/retry-npm-package.git"
+  },
+  "author": "danielboy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniellboy/retry-npm-package/issues"
+  },
+  "homepage": "https://github.com/daniellboy/retry-npm-package#readme",
+  "dependencies": {
+    "ajv": "^6.10.2",
+    "async": "^3.1.0",
+    "axios": "^0.19.0",
+    "moment": "^2.24.0",
+    "testcafe": "^1.4.3"
+  }
+}
